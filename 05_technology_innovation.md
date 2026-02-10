@@ -1,3 +1,13 @@
+---
+title: "방탈출 산업 기술 트렌드 및 혁신"
+description: "VR/AR, IoT, AI 등 방탈출 산업의 디지털 전환 및 기술 혁신 동향"
+layout: default
+category: "기술 혁신"
+order: 5
+date: 2026-02-10
+tags: ["VR", "AR", "IoT", "AI", "디지털전환", "기술혁신"]
+---
+
 # 방탈출 산업 기술 트렌드 및 혁신
 
 > **작성일**: 2026년 2월 10일  
