@@ -62,11 +62,11 @@
 - index.md 및 README.md 업데이트 (완료 상태 반영)
 
 ### Definition of Done
-- [ ] 8개 문서 모두 작성 완료 (각 300줄 이상)
-- [ ] 모든 문서에 YAML frontmatter, Executive Summary, 데이터 테이블, 소스 인용 포함
-- [ ] README.md 체크리스트 5개 항목 모두 완료 처리
-- [ ] 문서 간 교차 참조 정상 작동
-- [ ] 총 줄 수 3,500+ 이상
+- [x] 8개 문서 모두 작성 완료 (각 300줄 이상)
+- [x] 모든 문서에 YAML frontmatter, Executive Summary, 데이터 테이블, 소스 인용 포함
+- [x] README.md 체크리스트 5개 항목 모두 완료 처리
+- [x] 문서 간 교차 참조 정상 작동
+- [x] 총 줄 수 3,500+ 이상
 
 ### Must Have
 - 이머시브 씨어터 **6개 이상** 사례 심층 분석 (Sleep No More, The Burnt City, Then She Fell, The Great Gatsby Immersive, Secret Cinema, 한국 사례 1-2개)
@@ -1222,15 +1222,15 @@ grep -c "\[x\]" immersive-experiences/README.md
 ```
 
 ### Final Checklist
-- [ ] 8개 문서 모두 존재하고 각 300줄 이상
-- [ ] 총 줄 수 3,500 이상
-- [ ] 모든 문서에 YAML frontmatter + Executive Summary + 데이터 테이블 + 소스 인용
-- [ ] 이머시브 씨어터 6개+ 사례 심층 분석 완료
-- [ ] 티켓 가격 및 수익 구조 구체적 데이터 확보
-- [ ] 방탈출과의 명확한 비교 분석 완료
-- [ ] 사업 적용 전략 도출 완료
-- [ ] 모든 정량 데이터에 출처 명시
-- [ ] 코로나 전후 데이터 구분 명시
-- [ ] 문서 간 교차 참조 정상 작동
-- [ ] index.md, README.md, 루트 README.md 상태 업데이트 완료
-- [ ] VR/AR, 테마파크, K-pop 등 범위 외 주제가 과도하게 포함되지 않음
+- [x] 8개 문서 모두 존재하고 각 300줄 이상
+- [x] 총 줄 수 3,500 이상
+- [x] 모든 문서에 YAML frontmatter + Executive Summary + 데이터 테이블 + 소스 인용
+- [x] 이머시브 씨어터 6개+ 사례 심층 분석 완료
+- [x] 티켓 가격 및 수익 구조 구체적 데이터 확보
+- [x] 방탈출과의 명확한 비교 분석 완료
+- [x] 사업 적용 전략 도출 완료
+- [x] 모든 정량 데이터에 출처 명시
+- [x] 코로나 전후 데이터 구분 명시
+- [x] 문서 간 교차 참조 정상 작동
+- [x] index.md, README.md, 루트 README.md 상태 업데이트 완료
+- [x] VR/AR, 테마파크, K-pop 등 범위 외 주제가 과도하게 포함되지 않음
