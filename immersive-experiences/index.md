@@ -43,19 +43,57 @@ status: "✅ 완료"
 
 ## 📊 완성된 문서
 
-```
-immersive-experiences/
-├── 01_market_overview.md                (312 lines) ✅
-├── 02_immersive_theater_deep_dive.md   (500 lines) ✅
-├── 03_case_studies.md                  (509 lines) ✅
-├── 04_business_models.md               (419 lines) ✅
-├── 05_customer_insights.md             (309 lines) ✅
-├── 06_comparison_with_escape_rooms.md  (303 lines) ✅
-├── 07_trends_and_outlook.md            (302 lines) ✅
-└── 08_strategic_implications.md        (385 lines) ✅
+### 1️⃣ [시장 개요](01_market_overview.md)
+글로벌 이머시브 경험 시장 규모 및 성장률
+- 시장 규모: $144.17B → $412.69B (CAGR 23.41%)
+- 지역별 분석 (미국, 유럽, 아시아, 한국)
+- 시장 세분화 및 성장 동력
 
-Total: 3,039 lines
-```
+### 2️⃣ [이머시브 씨어터 심층 분석](02_immersive_theater_deep_dive.md) ⭐
+장르 특성 및 디자인 원칙
+- 6개 비즈니스 모델 분류
+- 공간 디자인 원칙 (비선형 동선, 환경 스토리텔링)
+- 글로벌 풍경 (NYC, London, 중국, 한국)
+
+### 3️⃣ [주요 사례 연구](03_case_studies.md)
+7개 이머시브 씨어터 심층 분석
+- Sleep No More (12년 롱런, 600명 수용)
+- Then She Fell (15명 소규모 모델)
+- The Great Gatsby (F&B 통합)
+- Secret Cinema (1000명+ 대규모)
+- 한국 사례 (카지노 등)
+
+### 4️⃣ [비즈니스 모델 분석](04_business_models.md)
+가격 전략 및 수익 구조
+- 티켓 가격: $59~$388+ (방탈출 대비 5.4배)
+- 수익 구조: 티켓 60-70%, F&B 20-30%
+- 손익분기점 및 수익성 추정
+
+### 5️⃣ [고객 인사이트](05_customer_insights.md)
+타겟 고객 및 행동 패턴
+- 인구통계: 25-40세, 여성 55-60%
+- 재방문율: 30-40% (Completionist 현상)
+- 이용 동기 및 만족 요인
+
+### 6️⃣ [방탈출과의 비교](06_comparison_with_escape_rooms.md)
+8개 축 체계적 비교 및 융합 모델
+- 공간, 시간, 역할, 목표, 가격 등 비교
+- "이머시브 방탈출" 융합 모델
+- 2.5x 가격, 2.7x 매출 잠재력
+
+### 7️⃣ [트렌드 및 전망](07_trends_and_outlook.md)
+2024-2025 트렌드 및 5-10년 전망
+- F&B 통합, 소규모 친밀 경험
+- 포스트 코로나 변화
+- 아시아 태평양 CAGR 25%+
+
+### 8️⃣ [사업 적용 전략](08_strategic_implications.md) ⭐⭐⭐
+종합 전략 및 실행 로드맵
+- 4대 전략: 차별화, 프리미엄, 경험디자인, 타겟팅
+- 3단계 실행 로드맵
+- "방탈출계의 동물의 숲" + "이머시브의 몰입감"
+
+**총 8개 문서, 3,039 줄**
 
 ## 🔑 핵심 발견
 
@@ -83,4 +121,4 @@ Total: 3,039 lines
 
 ---
 
-[📖 상세 조사 가이드 보기](README.md) | [← 메인으로](../README.md)
+[📖 상세 조사 가이드 보기](README.md) | [← 메인으로](../)
